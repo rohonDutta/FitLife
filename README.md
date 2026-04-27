@@ -299,7 +299,7 @@ Launch
                                               │
                                               ▼
                                     ┌─────────────────┐
-                                    │   Bottom Nav     │
+                                    │   Bottom Nav    │
                                     ├─────┬─────┬─────┤
                                     │Steps│Work │Cals │
                                     │     │ out │     │
