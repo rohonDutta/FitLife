@@ -83,7 +83,7 @@ FitLife follows the **MVVM (Model-View-ViewModel)** architecture pattern with cl
                          │
                          ▼
 ┌──────────────────────────────────────────────────────────┐
-│                  Data Layer                               │
+│                  Data Layer                              │
 │  Room Database (fitlife_v1.db)                           │
 │  8 Entities · 7 DAOs · DataStore Preferences             │
 └──────────────────────────────────────────────────────────┘
